@@ -9,8 +9,8 @@ const lName = createContext();
 function App() {
   return (
     <>
-      <fName.Provider value={"Aayush"}>
-        <lName.Provider value={"Rastogi"}>
+      <fName.Provider value={"Tech"}>
+        <lName.Provider value={"Tunnel"}>
           <ComA />
         </lName.Provider> 
       </fName.Provider>  
